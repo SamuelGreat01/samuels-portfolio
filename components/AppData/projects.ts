@@ -196,7 +196,7 @@ const PROJECTS_DATA = [
       'SCITY.CO is an ecommerce platform that allows you to create and manage your fashion business. ',
     link: 'https://www.figma.com/design/6AEtxiEJ9jGdRR0XIp4kPH/SCITY.CO?node-id=97-2438&p=f',
     imageUrl:
-      '/img/ecomerce.png',
+      '/img/shops.png',
     type: [ 'project'],
     technologies: ['Figma', 'User research', 'Canva'],
   },
@@ -206,7 +206,7 @@ const PROJECTS_DATA = [
     description: 'Weather Cards is a design project that showcases a collection of weather cards in different styles and layouts.',
    link: 'https://www.figma.com/design/YgTc8F6CJEe3Edpt2vH6dS/weather-cards?node-id=0-1&p=f',
     imageUrl:
-      '/img/weather.png',
+      '/img/weathers.png',
     type: ['project'],
     technologies: ['Figma', 'User research', 'Canva'],
   },
@@ -228,7 +228,7 @@ const PROJECTS_DATA = [
       'Rating Cards is a design project that showcases a collection of rating cards in different styles and layouts.',
     link: 'https://www.figma.com/design/O4ksJ76VfCxK72rqdJHL0i/rating-modal?node-id=2-192&p=f',
     imageUrl:
-      '/img/rating.png',
+      '/img/ratings.png',
     type: ['others', 'project'],
     technologies: ['Figma', 'User research', 'Canva'],
   },
@@ -238,7 +238,7 @@ const PROJECTS_DATA = [
     link: 'https://www.figma.com/design/zuV1vbBTBQsFljouqrPBKl/pet-adoption-landing-page?node-id=0-1&p=f',
    about:
       'Because Every Paw deserves a home Paw Hub is a platform that allows you to find and adopt a pet.',
-    imageUrl: '/img/pet.png',
+    imageUrl: '/img/pets.png',
     type: ['open-source', 'tools'],
     technologies: ['Figma', 'User research', 'Canva'],
   },
@@ -248,7 +248,7 @@ const PROJECTS_DATA = [
     about:
       'Golden Earth Trash Hauling is a company that transforms waste materials into functional products.',
     link: 'https://www.figma.com/design/sSJVVaOF8yFBal6bBHd4IF/trash-services-landing-page?node-id=0-1&p=f',
-    imageUrl: '/img/trash-recycle.png',
+    imageUrl: '/img/trash.png',
     type: ['others', 'project'],
     technologies: ['Figma', 'User research', 'Canva'],
   },
