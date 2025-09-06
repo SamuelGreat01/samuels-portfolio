@@ -40,7 +40,7 @@ export default class MyDocument extends Document {
           <meta name="author" content="Samuel Great" />
           <meta
             name="keywords"
-            content="Samuel Great, codewonders, codewonders.dev, codewonders.us, affinity developer."
+            content="Samuel Great"
           />
           <meta property="og:locale" content="en-US" />
           <meta property="og:type" content="website" />
@@ -58,19 +58,15 @@ export default class MyDocument extends Document {
             name="msapplication-config"
             content="/icons/browserconfig.xml"
           />
-          <meta name="twitter:site" content="@code_wonders" />
-          <meta
-            name="twitter:image"
-            content="https://i.ibb.co/SxxqTRk/Mac-Book-Pro-16-10.png"
-          />
+     
+        
           <link
             rel="preload"
             as="style"
             href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap"
           />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
-          <link rel="preconnect" href="https://i.ibb.co/" crossOrigin />
-          <link rel="shortcut icon" href="/icons/favicon.ico" />
+         <link rel="shortcut icon" href="/icons/favicon.ico" />
           <link
             rel="apple-touch-icon"
             sizes="180x180"
@@ -105,14 +101,10 @@ export default class MyDocument extends Document {
           <meta name="robots" content="index, nofollow" />
           <link
             rel="author"
-            href="https://lh3.googleusercontent.com/KUg3rbUWiVpV83Sdsy5FcsGeOlpcOgi1o3wLhcZGmGkjDmWCj4Hh4kLEEn_1b4dGsm9hzW7lGGvEsUpH2wpCRk9vlfod3ojbJyG7Rdb3ViBaBric9MwvP6J422dIifjzdT4gMJdKkWB4TIlfouuwVm9lxBgxoXEoGm3yiF7xMtFPNIEOTbbgG-WcV6I6jGhLj4AKoRJS_M2g2m5g132WKRTgWSLO4D4sL05lRPAATNq2h3bD72vFGm_Zk-r53dJGBe7FlHIcTV6rU85XD7wwF5sKtmddNbO9nbKg1L-W5pGcU-Ntvx9ayUmxMmGck0FXhf3saN6Qys_dh_C31jy1StMNeceswq1cH8712PvVmca1uNircDdNUbgKIstcn2Q3Egw1w_P5fJ17H6Ru7ZB8gmgEtivx8enUeE_TknyYz37p71GEGCg9-E2m5bl9YaUNTnODjQ2Lh8xeXYnsnCFkvw-XTlWFi799mxtjQFbPK32oAbV728dCld7eB8oTcvB4msAah-hukPKOr83q4GeiZlUe-w_L9hXzFDXF5d86CQbD7ypeUnlhdMaZi8KXOXrkEUMD_njXWSFEh9Xdcnt87Yvkz7VqRxbDHUz4Nid5oiUFAYtUgV917fg1PHroY1Iy0R3g97GXAxHsVc0PfzKLcKgZvoDVURscN8jlpDvbwGfiJ_4HwRHFRys=w1080-h1440-no"
+            href="/icons/favicon.ico"
           />
           <meta property="og:title" content="Samuel Great" />
-          <meta property="og:url" content="https://codewonders.dev" />
-          <meta
-            property="og:image"
-            content="https://i.ibb.co/SxxqTRk/Mac-Book-Pro-16-10.png"
-          />
+      
           <meta
             name="apple-mobile-web-app-title"
             content="Samuel Great"
