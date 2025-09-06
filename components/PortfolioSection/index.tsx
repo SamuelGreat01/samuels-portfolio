@@ -58,15 +58,15 @@ const PortfolioSection = () => {
               <ProjectImage>
                 <img src={project.imageUrl} alt={project.title} />
                 <ProjectOverlay>
-                  <ProjectInfo>
-                    <ProjectTitle>{project.title}</ProjectTitle>
+                 
+                   
                     <ProjectTechnologies>
                       {project.technologies.slice(0, 3).map((tech, techIndex) => (
                         <TechTag key={techIndex}>{tech}</TechTag>
                       ))}
                     </ProjectTechnologies>
                     
-                  </ProjectInfo>
+               
                 </ProjectOverlay>
               </ProjectImage>
             </ProjectCard>
@@ -82,25 +82,7 @@ const PortfolioContainer = styled.section`
   overflow: hidden;
 `;
 
-const PortfolioTitle = styled.h2`
-  text-align: center;
-  font-size: 2.5rem;
-  font-weight: 700;
-  margin-bottom: 3rem;
-  color: var(--text-primary);
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  
-  @media (max-width: 768px) {
-    font-size: 2rem;
-    margin-bottom: 2rem;
-  }
-  
-  @media (max-width: 480px) {
-    font-size: 1.5rem;
-    letter-spacing: 1px;
-  }
-`;
+
 
 const ScrollContainer = styled.div`
   overflow-x: auto;
@@ -198,20 +180,7 @@ const ProjectInfo = styled.div`
   max-width: 180px;
 `;
 
-const ProjectTitle = styled.h3`
-  font-size: 1rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-`;
 
-const ProjectDescription = styled.p`
-  font-size: 0.7rem;
-  line-height: 1.4;
-  margin-bottom: 0.8rem;
-  opacity: 0.9;
-`;
 
 const ProjectTechnologies = styled.div`
   display: flex;

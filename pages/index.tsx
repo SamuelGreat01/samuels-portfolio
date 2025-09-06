@@ -33,7 +33,7 @@ const Home = () => {
             </motion.h1>
             <motion.p {...getTransitions(0.3)}>
               {' '}
-              A third-year Physiotherapy and Rehabilitation student with hands-on
+              A fourth-year Physiotherapy and Rehabilitation student with hands-on
               clinical experience from multiple internships. I'm also a skilled
               product designer who's passionate about creating{' '}
               <Link href="/projects" aria-label="Go to Projects Page">

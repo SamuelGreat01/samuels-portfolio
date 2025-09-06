@@ -206,21 +206,11 @@ const PROJECTS_DATA = [
     description: 'Weather Cards is a design project that showcases a collection of weather cards in different styles and layouts.',
    link: 'https://www.figma.com/design/YgTc8F6CJEe3Edpt2vH6dS/weather-cards?node-id=0-1&p=f',
     imageUrl:
-      '/img/weather cards.png',
+      '/img/weather.png',
     type: ['project'],
     technologies: ['Figma', 'User research', 'Canva'],
   },
-  {
-    title: 'SCITY.CO',
-    description: 'SCITY.CO is a platform that allows you to create and manage your fashion business.',
-    about:
-      'SCITY.CO is an ecommerce platform that allows you to create and manage your fashion business. ',
-    link: 'https://www.figma.com/design/6AEtxiEJ9jGdRR0XIp4kPH/SCITY.CO?node-id=97-2438&p=f',
-    imageUrl:
-      '/img/ecomerce.png',
-    type: ['others', 'project'],
-    technologies: ['Figma', 'User research', 'Canva'],
-  },
+  
   {
     title: 'Freespace',
     description: '100% Anonymously tell the world your mind.',
