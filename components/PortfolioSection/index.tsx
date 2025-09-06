@@ -60,7 +60,6 @@ const PortfolioSection = () => {
                 <ProjectOverlay>
                   <ProjectInfo>
                     <ProjectTitle>{project.title}</ProjectTitle>
-                    <ProjectDescription>{project.description}</ProjectDescription>
                     <ProjectTechnologies>
                       {project.technologies.slice(0, 3).map((tech, techIndex) => (
                         <TechTag key={techIndex}>{tech}</TechTag>
